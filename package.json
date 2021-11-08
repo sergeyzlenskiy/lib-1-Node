@@ -1,0 +1,23 @@
+{
+  "name": "lib-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeyzlenskiy/lib-1-Node.git"
+  },
+  "author": "Sergey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergeyzlenskiy/lib-1-Node/issues"
+  },
+  "homepage": "https://github.com/sergeyzlenskiy/lib-1-Node#readme",
+  "dependencies": {
+    "@sergeyzlenskiy/ajs": "^1.0.0"
+  }
+}
